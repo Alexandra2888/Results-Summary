@@ -1,6 +1,7 @@
 import './Summary.css';
 
 const Summary = () => {
+
     return (
       <div className="summary grid-flow" data-spacing="large">
         <h2 className="section-title">Summary</h2>

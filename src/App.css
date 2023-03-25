@@ -7,7 +7,7 @@
 
 * {
     margin: 0;
-    font: inherit;
+    /* font: inherit; */
 }
 
 @font-face {
@@ -15,20 +15,20 @@
     src: url("https://fonts.google.com/specimen/Hanken+Grotesk") format("truetype");
 }
 
-body {
-    font-family: var(--font-family-default);
-    font-size: var(--fs-400);
-    color: var(-clr-neutral-700);
+body { 
+  font-family: var(--font-family-default);
+  font-size: var(--fs-400);
+  color: var(--clr-neutral-700);
 }
 
 @media (min-width: 600px) {
-    body {
-        min-width: 100vh;
-        display: grid;
-        place-items: center;
-        margin-top: 7%;
-    }
+  body {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+  }
 }
+
 
 .result-summary {
     max-width: 46rem;
