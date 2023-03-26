@@ -43,7 +43,7 @@ I want to focus more on CSS and learn accessibility.
 
 ## Author
 
-- GitHub - [Arthur](https://github.com/Alexandra2888)
-- Frontend Mentor - [@AsteriskM1](https://www.frontendmentor.io/profile/Alexandra2888)
+- GitHub - [Alexandra2888](https://github.com/Alexandra2888)
+- Frontend Mentor - [@Alexandra2888](https://www.frontendmentor.io/profile/Alexandra2888)
 
 
