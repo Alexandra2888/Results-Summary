@@ -16,7 +16,7 @@
 }
 
 body { 
-  font-family: var(--font-family-default);
+  font-family: HankenGrotesk, sans-serif;
   font-size: var(--fs-400);
   color: var(--clr-neutral-700);
 }
