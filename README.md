@@ -47,3 +47,4 @@ I want to focus more on CSS and learn accessibility.
 - Frontend Mentor - [@Alexandra2888](https://www.frontendmentor.io/profile/Alexandra2888)
 
 
+![Macbook Pro-1696096447338](https://github.com/Alexandra2888/Results-Summary/assets/76844097/4cfd94ea-1a7e-4d18-9b33-827096b8d5ab)
